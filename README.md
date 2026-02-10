@@ -1,11 +1,16 @@
 # Resume-Parser
 A lightweight Resume Parsing system built with Python and spaCy to automatically extract key information from PDF resumes. The project combines NLP (Named Entity Recognition) and Regex-based pattern matching for accurate and efficient data extraction.
 
-🔍 Features
+🔍 Features :
+
 Extracts Name using spaCy NER
+
 Extracts Email & Phone Number using Regex
+
 Identifies Skills from a predefined skill database
+
 Parses Education and Experience sections from resume text
+
 Supports PDF resume input using PyPDF2
 
 🛠 Tech Stack
